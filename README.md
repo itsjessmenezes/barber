@@ -1,16 +1,15 @@
 # Barber
 This project was developed by Bonieky Lacerda, you can find the entire explanation on YouTube
 
-<p>
+
 <img src="./src/image/app.jpeg" width="150" />
 <img src="./src/image/signin.jpeg" width="150" />
 <img src="./src/image/signup.jpeg" width="150" />
-</p>
-<p>
+
 <img src="./src/image/home.jpeg" width="150" />
 <img src="./src/image/profile.jpeg" width="150" />
 <img src="./src/image/appointment.jpeg" width="150" />
-</p>
+
 
 ## Instalation
 
@@ -45,10 +44,4 @@ $ cd barber/android/main/AndroidManifest.xml
  ```
 <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
  ```
-
-  #### Go to
-$ cd barber/android/main/AndroidManifest.xml
-
-#### add the line
-< uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
  
